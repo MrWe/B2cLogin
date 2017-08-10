@@ -1,0 +1,21 @@
+﻿<Properties StartupConfiguration="{741AC119-C93C-43E8-9923-9376B9ABB786}|Default" NuGet.AddPackagesDialog.IncludePrerelease="True">
+  <MonoDevelop.Ide.ItemProperties.LoginB2C.Droid PreferredExecutionTarget="Android.192.168.56.101:5555" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="LoginB2C/LoginB2CPage.xaml.cs">
+    <Files>
+      <File FileName="LoginB2C/LoginB2CPage.xaml.cs" Line="1" Column="1" />
+      <File FileName="LoginB2C/LoginB2CPage.xaml" Line="28" Column="1" />
+      <File FileName="LoginB2C/App.xaml.cs" Line="1" Column="1" />
+      <File FileName="LoginB2C/App.xaml" Line="7" Column="1" />
+      <File FileName="../test3/test3/App.xaml.cs" Line="1" Column="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.LoginB2C.iOS PreferredExecutionTarget="MonoDevelop.IPhone.IPhoneSimulatorTarget.337DDDEC-5C65-4F41-ABB2-91CE655ED24C">
+    <MonoDevelop.MacDev.AppleDevelopmentTeam />
+  </MonoDevelop.Ide.ItemProperties.LoginB2C.iOS>
+  <MultiItemStartupConfigurations />
+</Properties>
